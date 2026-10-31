@@ -2,7 +2,7 @@
 
 Nama : M Vicky Azhari
 NIM  : 2409020070
-Link demo: m vicky azhari 2409020070
+Link demo: https://github.com/vikiazhari3-afk/arvr-prak-2409020070
 
 Project ini berisi scene WebXR perkenalan diri menggunakan A-Frame 1.7.1.
 
